@@ -2,4 +2,5 @@
 
 
 # Linux-Commands
+[ls]("www.google.com")
 
